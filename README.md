@@ -1,3 +1,3 @@
 # session_logs
 
-The master session log for WatchersOfFaerun. Update at will.
+The session logs for WatchersOfFaerun. Update/clarify at will.
