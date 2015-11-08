@@ -1,3 +1,3 @@
 # session_logs
 
-The session logs for WatchersOfFaerun. Update/clarify at will.
+The session logs for WatchersOfFaerun are in the other file.
