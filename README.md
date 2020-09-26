@@ -1,3 +1,2 @@
 # session_logs
-
-The session logs for WatchersOfFaerun are in the other file.
+[D&D Session Logs](WatchersOfFaerunLog.mkd)
